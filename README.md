@@ -1,4 +1,4 @@
 # music-bot
-Made by - xqi#1400
+Made by - Luxa#1350
 
 music bot with a bunch of commands for you to use
