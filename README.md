@@ -1,4 +1,4 @@
 # music-bot
-Made by - Luxa#1350
+Made by - CatNinja#0001
 
 music bot with a bunch of commands for you to use
