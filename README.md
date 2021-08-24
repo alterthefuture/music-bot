@@ -1,4 +1,4 @@
 # music-bot
-Made by - alter#6000
+Made by - ritz#8888
 
 music bot with a bunch of commands for you to use
